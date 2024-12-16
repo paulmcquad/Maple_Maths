@@ -64,7 +64,7 @@ Linear algebra is the branch of **mathematics** concerning **linear equations.**
 
 ## Matrix theory
 
-A **rectangular array** or ****table of numbers, symbols, or expressions.**
+A **rectangular array** or **table of numbers, symbols, or expressions.**
 
 ## Polynomial
 
