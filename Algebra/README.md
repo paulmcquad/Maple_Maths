@@ -1,5 +1,11 @@
 # Algebra
 
+## Algebra Books
+
+[**College Algebra** - 10th Edition 978-0321979476](https://www.amazon.co.uk/College-Algebra-Michael-Sullivan/dp/0321979478)
+
+## Algebra Glossary
+
 **Letters** and **other symbols** are used to represent **numbers** and **quantities** in formulae and equation.
 
 ## Abstract algebra
